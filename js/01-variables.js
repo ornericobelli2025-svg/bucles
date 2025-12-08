@@ -41,5 +41,3 @@ if(isNaN(nota)) {
             break;
 
     }
-    console.log("Hola mundo");
-    

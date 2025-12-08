@@ -40,7 +40,4 @@ if(isNaN(nota)) {
             document.writeln("Sobresaliente");
             break;
 
-        default:
-            document.writeln("Número erróneo");
-            break;
     }
